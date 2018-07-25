@@ -2,19 +2,19 @@
   title: qwertyoruiopz
   link: https://web.archive.org/web/20170704043002/http://blog.qwertyoruiop.com:80/
   avatar: https://pbs.twimg.com/profile_images/762417498687836161/23ygFqpl_400x400.jpg
-  description: Lucas Tabasco. WebKit 0day.
+  description: Yalu102. WebKit 0days. Out here
 
 02_ianbeer:
   title: i41nbeer
   link: https://bugs.chromium.org/u/ianbeer@google.com/updates
   avatar: https://pbs.twimg.com/profile_images/938833482838659072/A1z4tyvI_400x400.jpg
-  description: XNU researcher. Releases dope exploits.
+  description: XNU researcher. Releases dope exploits
 
 03_stek29:
   title: stek29
   link: https://stek29.rocks/
   avatar: https://pbs.twimg.com/profile_images/966502058206617600/Q9HHen3M_400x400.jpg
-  description: Cool russian dude. 
+  description: Patches stuff. Cool russian dude
   
 04_tihmstar:
   title: tihmstar
@@ -26,12 +26,12 @@
   title: xerub
   link: https://xerub.github.io/
   avatar: https://pbs.twimg.com/profile_images/721772776902635520/As0gzMm6_400x400.jpg
-  description: ARM64 pornstar. Firmware keys. iBoot 0day.
+  description: Firmware keys. iBoot 0day. Pornstar
 06_doadam:
   title: doadam
   link: https://blog.zimperium.com/
   avatar: https://pbs.twimg.com/profile_images/791747903459037185/0jZ-5S1p_400x400.jpg
-  description: Zimperium. iOS/Android researcher. ziVA 0day.
+  description: Zimperium. Dropped ziVA 0day
 
 07_matteyeux:
   title: matteyeux
@@ -49,16 +49,22 @@
   title: s1guza
   link: https://github.com/Siguza
   avatar: https://pbs.twimg.com/profile_images/3451304290/1420c117451a3e79fee19ec50d6d79d7_400x400.png
-  description: cl0ver. v0rtex. Patches.
+  description: cl0ver. v0rtex. Patches. Wisdom
 
 10_morpheus:
   title: Morpheus______
   link: http://newosxbook.com/
   avatar: https://images-na.ssl-images-amazon.com/images/I/51eNHNW-aiL._SX391_BO1,204,203,200_.jpg
-  description: Book writer. Apple Internal. LiberiOS.
+  description: Book writer. Apple Internal. LiberiOS
 
 11_PsychoTea:
   title: iBSparkes
   link: https://sparkes.zone/blog/
   avatar: https://pbs.twimg.com/profile_images/882890755165106176/eiCwAHpQ_400x400.jpg
-  description: Meridian developer. Plays League. 
+  description: Meridian developer. Plays League
+
+12_coolstar:
+  title: coolstarorg
+  link: https://coolstar.org/
+  avatar: https://pbs.twimg.com/profile_images/1017518463135334400/FvaIMfLS_400x400.jpg
+  description: Electra dev/Saurik wannabe
