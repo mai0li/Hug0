@@ -1,65 +1,64 @@
 01_qwertyoruiop:
-  title: Luca Todesco ([@qwertyoruiopz](https://twitter.com/qwertyoruiopz))
+  title: @qwertyoruiopz
   link: https://web.archive.org/web/20170704043002/http://blog.qwertyoruiop.com:80/
   avatar: https://pbs.twimg.com/profile_images/762417498687836161/23ygFqpl_400x400.jpg
-  description: Yalu102 developer. WebKit researcher. One of my favourites.
+  description: Lucas Tabasco. WebKit 0day.
 
 02_ianbeer:
-  title: Ian Beer ([@i41nbeer](https://twitter.com/i41nbeer))
+  title: @i41nbeer
   link: https://bugs.chromium.org/u/ianbeer@google.com/updates
   avatar: https://pbs.twimg.com/profile_images/938833482838659072/A1z4tyvI_400x400.jpg
-  description: XNU researcher @ Google Project Zero. Releases dope exploits. Genius.
+  description: XNU researcher. Releases dope exploits.
 
 03_stek29:
-  title: Viktor Oreshkin ([@stek29](https://twitter.com/stek29))
+  title: @stek29
   link: https://stek29.rocks/
   avatar: https://pbs.twimg.com/profile_images/966502058206617600/Q9HHen3M_400x400.jpg
   description: Cool russian dude. 
   
 04_tihmstar:
-  title: tihmstar ([@tihmstar](https://twitter.com/tihmstar))
+  title: @tihmstar
   link: http://blog.tihmstar.net/
   avatar: https://pbs.twimg.com/profile_images/3287607055/85f6414b1b35d431296a3dd243f4a903_400x400.png
-  description: FutureRestore developer. Released ETASonJB and DoubleHelix/Helix jailbreaks. Great TSS/Apple Codesigning researcher.
+  description: Pwned TSS + rls some JBs
 
 05_xerub:
-  title: xerub ([@xerub](https://twitter.com/xerub))
+  title: @xerub
   link: https://xerub.github.io/
   avatar: https://pbs.twimg.com/profile_images/721772776902635520/As0gzMm6_400x400.jpg
-  description: ARM64 pornstar. Released lots of firmware keys. Low level boot chain researcher.
-
+  description: ARM64 pornstar. Firmware keys. iBoot 0day.
 06_doadam:
-  title: Adam Donenfeld ([@doadam](https://twitter.com/doadam))
+  title: @doadam
   link: https://blog.zimperium.com/
   avatar: https://pbs.twimg.com/profile_images/791747903459037185/0jZ-5S1p_400x400.jpg
-  description: Zimperium. iOS/Android researcher. Released ziVA kernel exploit.
+  description: Zimperium. iOS/Android researcher. ziVA 0day.
 
 07_matteyeux:
-  title: Mathieu Hautebas ([@matteyeux](https://twitter.com/matteyeux))
+  title: @matteyeux
   link: http://matteyeux.me/
   avatar: https://avatars0.githubusercontent.com/u/8758978?s=460&v=4 
-  description: Sick french dude. Researches lots of stuff, from low-level boot chain to jailbreak tools analysis. Genius.
+  description: Sick french dude
 
 08_bazad:
-  title: Brandon Azad ([@bazad](https://twitter.com/_bazad))
+  title: @bazad
   link: https://bazad.github.io/
   avatar: https://pbs.twimg.com/profile_images/988185556218626048/EUPYCUO7_400x400.jpg
-  description: ida_kernelcache developer. Researches iOS/macOS kernel exploits.
+  description: ida_kernelcache developer
 
 09_s1guza:
-  title: Siguza ([@s1guza](https://twitter.com/s1guza))
+  title: @s1guza
   link: https://github.com/Siguza
   avatar: https://pbs.twimg.com/profile_images/3451304290/1420c117451a3e79fee19ec50d6d79d7_400x400.png
-  description: Kernel researcher. Dropped many 0days such as cl0ver and v0rtex. Helped many jailbreakers release their tools. Genius.
+  description: cl0ver. v0rtex. Patches.
 
 10_morpheus:
-  title: Jonathan Levin (@Morpheus____)
+  title: @Morpheus______
   link: http://newosxbook.com/
-  avatar: 
-  description: Book writer. Apple Internal. Just like the guy from the Matrix, has tons of knowledge. LiberiOS and QiLin developer.
+  avatar: https://images-na.ssl-images-amazon.com/images/I/51eNHNW-aiL._SX391_BO1,204,203,200_.jpg
+  description: Book writer. Apple Internal. LiberiOS.
 
 11_PsychoTea:
-  title: Ben Sparkes ([@iBSparkes](https://twitter.com/iBSparkes))
+  title: @iBSparkes
   link: https://sparkes.zone/blog/
   avatar: https://pbs.twimg.com/profile_images/882890755165106176/eiCwAHpQ_400x400.jpg
-  description: Meridian developer. Cool guy. Plays League. 
+  description: Meridian developer. Plays League. 
